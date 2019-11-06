@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e8aeaf4d6baeb94e81855fd4e7442ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuCanvas: {instanceID: 0}
+  - buttonPrefab: {fileID: 6188033954436012705, guid: 4a57656efda1c7a4bb8361783dad3415,
+      type: 3}
+  - targetObject: {instanceID: 0}
+  - Save: {fileID: 2100000, guid: 8ae687d8f438c5c40857676044d735a4, type: 2}
+  - Load: {fileID: 2100000, guid: a4bc7b6d322cdfb4da1a18df7451ef0a, type: 2}
+  - ChangeBackground: {fileID: 2100000, guid: 45cc586a0f25b054bb6ad50c5280c93a, type: 2}
+  - ActiveWindows: {fileID: 2100000, guid: 113819a135fa21f49b6f0e5b3aa4d3bb, type: 2}
+  - Tutorial: {fileID: 2100000, guid: ce9c419afc61d4e4d96c2de621bfbbb2, type: 2}
+  - AddScreen: {fileID: 2100000, guid: a24f057e66815e84a8ca493541d1eb8f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
